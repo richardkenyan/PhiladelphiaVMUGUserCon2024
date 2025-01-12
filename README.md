@@ -1,2 +1,4 @@
 # PhiladelphiaVMUGUserCon2024
-Legacy to Modern: My VxRail Story - Migrating a legacy IT infrastructure to VMware VxRail is a strategic move that can help organizations achieve their digital transformation goals. My PhiladelphiaVMUGUserCon2024 User Session on 2024-03-26 in Philadelphia PA. Please enjoy! 
+Legacy to Modern: My VxRail Story
+
+Abstract: Migrating a legacy IT infrastructure to VMware VxRail is a strategic move that can help organizations achieve their digital transformation goals. With VxRail, organizations can modernize their IT infrastructure and take advantage of the latest technologies such as hyper-converged infrastructure (HCI), software-defined storage (SDS), and cloud-native applications. This can help reduce costs, improve performance, and increase agility. Migrating to VxRail can also help organizations simplify their IT operations and improve their security posture by leveraging the latest security features such as encryption, secure boot, and secure firmware updates. Here's my story.
